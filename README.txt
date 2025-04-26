@@ -6,3 +6,6 @@ git status
 git add .
 git commit -m "<message that describes commit>"
 git push
+
+
+Bradley Liu
