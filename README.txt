@@ -7,5 +7,5 @@ git add .
 git commit -m "<message that describes commit>"
 git push
 
-
+git checkout -b <branch-name>
 Bradley Liu
